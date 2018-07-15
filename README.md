@@ -2,13 +2,13 @@
 
 A python package for an experiment design algorithm that:
 
-(1) produces a Pareto efficient allocation of treatment assignment probabilities;
+1. produces a Pareto efficient allocation of treatment assignment probabilities;
 
-(2) is asymptotically incentive compatible for preference elicitation;
+2. is asymptotically incentive compatible for preference elicitation;
 
-(3) unbiasedly estimates any causal effect estimable with standard RCTs.
+3. unbiasedly estimates any causal effect estimable with standard RCTs.
 
-### Author
+### Author(s)
 
 This package is written and maintained by Yusuke Narita (yusuke.narita@yale.edu).
 
