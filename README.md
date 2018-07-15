@@ -8,7 +8,7 @@ A python package for an experiment design algorithm that:
 
 (3) unbiasedly estimates any causal effect estimable with standard RCTs.
 
-### Authors
+### Author
 
 This package is written and maintained by Yusuke Narita (yusuke.narita@yale.edu).
 
