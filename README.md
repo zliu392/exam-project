@@ -1,6 +1,6 @@
 # EXAM: Experiment-as-Market
 
-A python package for an experiment design algorithm that:
+A python package for EXAM, an experiment design algorithm which:
 
 1. produces a Pareto efficient allocation of treatment assignment probabilities;
 
@@ -18,7 +18,7 @@ This package is written and maintained by Yusuke Narita (yusuke.narita@yale.edu)
 The latest release of the package can be installed with pip:
 
 ```R
-pip install experimentasmarket
+pip install experiment-as-market
 ```
 
 Any published release can also be installed from source:
@@ -32,7 +32,7 @@ pip install git+https://github.com/zliu392/exam-project
 The following example demonstrates how to apply EXAM in experiment design.
 
 ```R
-import experimentasmarket
+import experiment-as-market
 ```
 
 ### References

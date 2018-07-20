@@ -1,9 +1,0 @@
-1. delete unnecessary library imports
-
-2. discussion: do we need to delete the sanity checks in the package?
-
-3. modify get_demand_matrix() function; now it’s hard-coded with num_treatments=2
-
-4. modify simulate() function; now it’s hard-coded with num_treatments=2
-
-5. save the outputs in a more general format; now it’s saved as a list and export in csv.
