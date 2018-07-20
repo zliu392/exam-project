@@ -32,7 +32,7 @@ pip install git+https://github.com/zliu392/exam-project
 The following example demonstrates how to apply EXAM in experiment design.
 
 ```R
-import experiment-as-market
+import experimentasmarket
 ```
 
 ### References
