@@ -8,7 +8,7 @@ A python package for Experiment-as-Market (EXAM), an experiment design algorithm
 
 3. unbiasedly estimates any causal effect estimable with standard RCTs.
 
-Please refer to the <a href="https://github.com/zliu392/exam-project/blob/master/documents/pseudocode.pdf">pseudocode</a> for the details of EXAM algorithm. 
+Please refer to the <a href="https://github.com/zliu392/exam-project/blob/master/documents/pseudocode.pdf">pseudocode</a> of EXAM for more details of the algorithm. 
 
 ### Author(s)
 
