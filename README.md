@@ -8,6 +8,8 @@ A python package for Experiment-as-Market (EXAM), an experiment design algorithm
 
 3. unbiasedly estimates any causal effect estimable with standard RCTs.
 
+Please refer to the [<a href="https://github.com/zliu392/exam-project/blob/master/documents/pseudocode.pdf">pseudocode</a>] for the details of EXAM algorithm. 
+
 ### Author(s)
 
 This package is written and maintained by Yusuke Narita (yusuke.narita@yale.edu).
@@ -18,7 +20,7 @@ This package is written and maintained by Yusuke Narita (yusuke.narita@yale.edu)
 The latest release of the package can be installed with pip:
 
 ```R
-pip install experiment-as-market
+pip install experimentasmarket
 ```
 
 Any published release can also be installed from source:
@@ -29,7 +31,7 @@ pip install git+https://github.com/zliu392/exam-project
 
 ### Usage Examples
 
-The following example demonstrates how to apply EXAM in experiment design.
+The following example demonstrates how to apply EXAM in experiment design applications.
 
 ```R
 import experimentasmarket
