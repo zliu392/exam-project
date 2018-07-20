@@ -37,7 +37,7 @@ The following example demonstrates how to apply EXAM in experiment design applic
 import experimentasmarket
 ```
 
-### References
+### Referenci(s)
 Yusuke Narita.
 <b>Toward an Ethical Experiment</b>, available at
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094905">SSRN</a>].
