@@ -4,7 +4,7 @@ setup(
     name='experimentasmarket',
     version='0.1',
     packages=find_packages(exclude=['tests*']),
-    license='GNU',
+    license='GPL-3.0',
     description='A python package for the EXAM algorithm.',
     long_description=open('README.md').read(),
     install_requires=['numpy', 'scipy', 'math', 'collections', 'random', 'copy', 'matplotlib', 'timeit', 'pandas', 'decimal', 'time'],
