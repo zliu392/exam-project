@@ -1,6 +1,6 @@
 # EXAM: Experiment-as-Market
 
-A python package for EXAM, an experiment design algorithm which:
+A python package for Experiment-as-Market (EXAM), an experiment design algorithm which:
 
 1. produces a Pareto efficient allocation of treatment assignment probabilities;
 
